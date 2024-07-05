@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "Água Mineral c/Gas",
+    "valor": 3.00,
+    "descricao": " ",
+    "img": "/img/agua-c-gas.jpg",
+    "quantidade": 1
+  },
+  {
+    "nome": "Água Mineral s/Gas",
+    "valor": 3.00,
+    "descricao": " ",
+    "img": "/img/agua-s-gas.jpg",
+    "quantidade": 1
+  }
+]
