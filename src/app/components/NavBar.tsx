@@ -64,11 +64,6 @@ export default function NavBar() {
             Salgados
           </Link>
         </li>
-        <li>
-          <Link className="border rounded-2xl px-5 py-3 hover:shadow transition shadow-inner bg-white" href="#tortas">
-            Tortas
-          </Link>
-        </li>
       </ul>
     </div>
   )
